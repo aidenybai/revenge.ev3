@@ -1,5 +1,5 @@
-# swerve
-Project by [Aiden Bai](https://github.com/innerjoker), download [here](https://github.com/cringiest/Rampage/raw/master/Rampage.ev3)
+# Rampage
+Project by [Aiden Bai](https://bai.js.org), download [here](https://github.com/cringiest/rampage/raw/master/Rampage.ev3)
 
 **Please calibrate these**:
  - Motor ports (default B+C)
