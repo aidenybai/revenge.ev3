@@ -1,5 +1,8 @@
 # Rampage
-Project by [Aiden Bai](https://bai.js.org), download [here](https://github.com/cringiest/rampage/raw/master/Rampage.ev3)
+Project by [Aiden Bai](https://bai.js.org), download [here](https://github.com/cringiest/rampage/blob/master/robot/Rampage.ev3)
+
+**Setup**
+Run the `_client` myblock.
 
 **Please calibrate these**:
  - Motor ports (default B+C)
